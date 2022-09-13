@@ -2,7 +2,7 @@
 
 Figure 4 shows the ParaWare incentives design. The player/consumer is not explicitly shown here, but occupies the same position as the developer. From the diagram, the incentives structure between the 3 class of roles are clear. Initially, developers will subsidize game play time for the players, but over time, the player will take on the role of the developer and start paying for usage.
 
-![Figure 4. Incentives design among the 3 main roles. Note that players are not explicity shown, but occupy the same circle as developers.](../../.gitbook/assets/4)
+![Figure 4. Incentives design among the 3 main roles. Note that players are not explicity shown, but occupy the same circle as developers.](<../../.gitbook/assets/figure 4.png>)
 
 
 
